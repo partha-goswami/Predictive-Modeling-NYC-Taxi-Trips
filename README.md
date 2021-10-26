@@ -1,2 +1,2 @@
 # Predictive-Modeling-NYC-Taxi-Trips
-This contains a predictive model to predict approximate trip duration for nyc taxi trips.
+This contains a predictive model to predict approximate trip duration for nyc taxi trips. This was done ar part of Analytics Vidhya's machine learning blackbelt+ program. Here, trip duration is predicted by the model using the input features. Initially we tried with a simple model, then more optimized and scaled models were obtained, thus we significantly reduced the overall mean absolute errors in test data.
